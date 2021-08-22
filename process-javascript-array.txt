@@ -65,7 +65,89 @@ VM1772:2 <a href="http://www.instagram.com/nathalie_zl">nathalie_zl</a>
 VM1772:2 <a href="http://www.instagram.com/_alessandraliu">_alessandraliu</a>
 VM1772:2 <a href="http://www.instagram.com/azul_kids">azul_kids</a>
 VM1772:2 <a href="http://www.instagram.com/annapavaga">annapavaga</a>
+undefined
+var x = document.getElementsByTagName('em'); console.log(x[5]); for (i = 0; i < x.length; i++)
+  console.log("<a href=\"http://www.instagram.com/" + x[i].innerText + "\">" + x[i].innerText + "</a><br/>");
+VM1792:1 <em>​chance_loves_swim​</em>​
+VM1792:2 <a href="http://www.instagram.com/https://t.me/joinchat/SkdN43KaP3NiZWQx
+
+✨">https://t.me/joinchat/SkdN43KaP3NiZWQx
+
+✨</a><br/>
+VM1792:2 <a href="http://www.instagram.com/✨">✨</a><br/>
+VM1792:2 <a href="http://www.instagram.com/✨
+
+">✨
+
+</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/oliviabaccarellioficial">oliviabaccarellioficial</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/annapavaga">annapavaga</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/louka.swim">louka.swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/_alessandra_liu">_alessandra_liu</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/annapavaga">annapavaga</a><br/>
+VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/officialelliemartinez">officialelliemartinez</a><br/>
+VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/alina___kirchallova">alina___kirchallova</a><br/>
+VM1792:2 <a href="http://www.instagram.com/_alessandraliu">_alessandraliu</a><br/>
+VM1792:2 <a href="http://www.instagram.com/jesia_official">jesia_official</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/_alessandraliu">_alessandraliu</a><br/>
+VM1792:2 <a href="http://www.instagram.com/azul_kids">azul_kids</a><br/>
+VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/kiseleva_christi_">kiseleva_christi_</a><br/>
+2VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/kamilyvianaoficial">kamilyvianaoficial</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/sarah_drisc">sarah_drisc</a><br/>
+VM1792:2 <a href="http://www.instagram.com/minifashionaddicts">minifashionaddicts</a><br/>
+VM1792:2 <a href="http://www.instagram.com/_alessandraliu">_alessandraliu</a><br/>
+2VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/annapavaga">annapavaga</a><br/>
+VM1792:2 <a href="http://www.instagram.com/nathalie_zl">nathalie_zl</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/azul_kids">azul_kids</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/_alessandraliu">_alessandraliu</a><br/>
+VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/azul_kids">azul_kids</a><br/>
+VM1792:2 <a href="http://www.instagram.com/evochka_tkachenko">evochka_tkachenko</a><br/>
+2VM1792:2 <a href="http://www.instagram.com/officialelliemartinez">officialelliemartinez</a><br/>
+VM1792:2 <a href="http://www.instagram.com/elle_campagna">elle_campagna</a><br/>
+VM1792:2 <a href="http://www.instagram.com/allie_andrew_">allie_andrew_</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/belmontebianca">belmontebianca</a><br/>
+VM1792:2 <a href="http://www.instagram.com/_vitaniemi.exclusive">_vitaniemi.exclusive</a><br/>
+VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/oliviabaccarellioficial">oliviabaccarellioficial</a><br/>
+VM1792:2 <a href="http://www.instagram.com/caniparola3">caniparola3</a><br/>
+VM1792:2 <a href="http://www.instagram.com/minifashionaddicts">minifashionaddicts</a><br/>
+VM1792:2 <a href="http://www.instagram.com/officialelliemartinez">officialelliemartinez</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chiro0915">chiro0915</a><br/>
+VM1792:2 <a href="http://www.instagram.com/ksu_vikhareva">ksu_vikhareva</a><br/>
+VM1792:2 <a href="http://www.instagram.com/allie_andrew_">allie_andrew_</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chelseahopedarley">chelseahopedarley</a><br/>
+VM1792:2 <a href="http://www.instagram.com/alina__kirchallova">alina__kirchallova</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/allie_andrew_">allie_andrew_</a><br/>
+VM1792:2 <a href="http://www.instagram.com/chance_loves_swim">chance_loves_swim</a><br/>
+VM1792:2 <a href="http://www.instagram.com/indiawoollard">indiawoollard</a><br/>
+VM1792:2 <a href="http://www.instagram.com/bikinimodelsofig">bikinimodelsofig</a><br/>
+VM1792:2 <a href="http://www.instagram.com/banhomaria">banhomaria</a><br/>
+VM1792:2 <a href="http://www.instagram.com/elle.nuo">elle.nuo</a><br/>
+VM1792:2 <a href="http://www.instagram.com/azul_kids">azul_kids</a><br/>
+VM1792:2 <a href="http://www.instagram.com/elle.nuo">elle.nuo</a><br/>
+VM1792:2 <a href="http://www.instagram.com/nathalie_zl">nathalie_zl</a><br/>
+VM1792:2 <a href="http://www.instagram.com/_alessandraliu">_alessandraliu</a><br/>
+VM1792:2 <a href="http://www.instagram.com/azul_kids">azul_kids</a><br/>
+VM1792:2 
 
 
 var x = document.getElementsByTagName('em'); console.log(x[5]); for (i = 0; i < x.length; i++)
-  console.log((i+1) + ": http://www.instagram.com/" + x[i].innerText);
+  console.log("<a href=\"http://www.instagram.com/" + x[i].innerText + "\">" + x[i].innerText + "</a><br/>");
