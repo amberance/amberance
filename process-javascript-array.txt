@@ -1,0 +1,81 @@
+1: http://www.instagram.com/https://t.me/joinchat/SkdN43KaP3NiZWQx
+
+✨
+VM1456:2 2: http://www.instagram.com/✨
+VM1456:2 3: http://www.instagram.com/✨
+
+
+VM1456:2 4: http://www.instagram.com/chance_loves_swim
+VM1456:2 5: http://www.instagram.com/oliviabaccarellioficial
+VM1456:2 6: http://www.instagram.com/chance_loves_swim
+VM1456:2 7: http://www.instagram.com/annapavaga
+VM1456:2 8: http://www.instagram.com/chance_loves_swim
+VM1456:2 9: http://www.instagram.com/louka.swim
+VM1456:2 10: http://www.instagram.com/_alessandra_liu
+VM1456:2 11: http://www.instagram.com/chance_loves_swim
+VM1456:2 12: http://www.instagram.com/annapavaga
+VM1456:2 13: http://www.instagram.com/banhomaria
+VM1456:2 14: http://www.instagram.com/chance_loves_swim
+VM1456:2 15: http://www.instagram.com/officialelliemartinez
+VM1456:2 16: http://www.instagram.com/banhomaria
+VM1456:2 17: http://www.instagram.com/alina___kirchallova
+VM1456:2 18: http://www.instagram.com/_alessandraliu
+VM1456:2 19: http://www.instagram.com/jesia_official
+VM1456:2 20: http://www.instagram.com/chance_loves_swim
+VM1456:2 21: http://www.instagram.com/_alessandraliu
+VM1456:2 22: http://www.instagram.com/azul_kids
+VM1456:2 23: http://www.instagram.com/banhomaria
+VM1456:2 24: http://www.instagram.com/kiseleva_christi_
+VM1456:2 25: http://www.instagram.com/chance_loves_swim
+VM1456:2 26: http://www.instagram.com/chance_loves_swim
+VM1456:2 27: http://www.instagram.com/kamilyvianaoficial
+VM1456:2 28: http://www.instagram.com/chance_loves_swim
+VM1456:2 29: http://www.instagram.com/sarah_drisc
+VM1456:2 30: http://www.instagram.com/minifashionaddicts
+VM1456:2 31: http://www.instagram.com/_alessandraliu
+VM1456:2 32: http://www.instagram.com/banhomaria
+VM1456:2 33: http://www.instagram.com/banhomaria
+VM1456:2 34: http://www.instagram.com/annapavaga
+VM1456:2 35: http://www.instagram.com/nathalie_zl
+VM1456:2 36: http://www.instagram.com/chance_loves_swim
+VM1456:2 37: http://www.instagram.com/azul_kids
+VM1456:2 38: http://www.instagram.com/chance_loves_swim
+VM1456:2 39: http://www.instagram.com/_alessandraliu
+VM1456:2 40: http://www.instagram.com/banhomaria
+VM1456:2 41: http://www.instagram.com/azul_kids
+VM1456:2 42: http://www.instagram.com/evochka_tkachenko
+VM1456:2 43: http://www.instagram.com/officialelliemartinez
+VM1456:2 44: http://www.instagram.com/officialelliemartinez
+VM1456:2 45: http://www.instagram.com/elle_campagna
+VM1456:2 46: http://www.instagram.com/allie_andrew_
+VM1456:2 47: http://www.instagram.com/chance_loves_swim
+VM1456:2 48: http://www.instagram.com/banhomaria
+VM1456:2 49: http://www.instagram.com/belmontebianca
+VM1456:2 50: http://www.instagram.com/_vitaniemi.exclusive
+VM1456:2 51: http://www.instagram.com/banhomaria
+VM1456:2 52: http://www.instagram.com/oliviabaccarellioficial
+VM1456:2 53: http://www.instagram.com/caniparola3
+VM1456:2 54: http://www.instagram.com/minifashionaddicts
+VM1456:2 55: http://www.instagram.com/officialelliemartinez
+VM1456:2 56: http://www.instagram.com/chiro0915
+VM1456:2 57: http://www.instagram.com/ksu_vikhareva
+VM1456:2 58: http://www.instagram.com/allie_andrew_
+VM1456:2 59: http://www.instagram.com/chelseahopedarley
+VM1456:2 60: http://www.instagram.com/alina__kirchallova
+VM1456:2 61: http://www.instagram.com/chance_loves_swim
+VM1456:2 62: http://www.instagram.com/allie_andrew_
+VM1456:2 63: http://www.instagram.com/chance_loves_swim
+VM1456:2 64: http://www.instagram.com/indiawoollard
+VM1456:2 65: http://www.instagram.com/bikinimodelsofig
+VM1456:2 66: http://www.instagram.com/banhomaria
+VM1456:2 67: http://www.instagram.com/elle.nuo
+VM1456:2 68: http://www.instagram.com/azul_kids
+VM1456:2 69: http://www.instagram.com/elle.nuo
+VM1456:2 70: http://www.instagram.com/nathalie_zl
+VM1456:2 71: http://www.instagram.com/_alessandraliu
+VM1456:2 72: http://www.instagram.com/azul_kids
+VM1456:2 73: http://www.instagram.com/annapavaga
+
+
+var x = document.getElementsByTagName('em'); console.log(x[5]); for (i = 0; i < x.length; i++)
+  console.log((i+1) + ": http://www.instagram.com/" + x[i].innerText);
